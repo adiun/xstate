@@ -28,8 +28,9 @@ node_modules
 
 # Other
 .vscode/
-dist/
-lib/
+# In published, we disabled dist/lib folders to include easier without a yarn repo
+#dist/
+#lib/
 es/
 editor/
 examples/7guis/
